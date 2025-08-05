@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+.next/
+
+# Environments
+.env
+
+# Misc
+.DS_Store
+backend/pim_backend.egg-info/
