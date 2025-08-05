@@ -65,4 +65,3 @@ def delete_product(product_id: int) -> dict[str, bool]:
         session.delete(product)
         session.commit()
         return {"ok": True}
-
